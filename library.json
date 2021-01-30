@@ -1,0 +1,30 @@
+{
+    "name": "FakePWM",
+    "version": "1.0.0",
+    "description": "Enable every digital port to be used as a PWM capable port.",
+    "keywords": [
+        "pwm",
+        "analog",
+        "digital",
+        "write"
+    ],
+    "frameworks": [
+        "arduino"
+    ],
+    "dependencies": [
+        {
+            "owner": "paulstoffregen",
+            "name": "TimerOne",
+            "version": "^1.1"
+        }
+    ],
+    "authors": {
+        "name": "Guilherme Rugai Freire"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GRFreire/FakePWM.git"
+    },
+    "homepage": "https://github.com/GRFreire/FakePWM",
+    "license": "MIT"
+}
